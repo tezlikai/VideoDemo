@@ -1,1 +1,2 @@
 include ':app', ':语音识别demo', ':mysiri'
+include ':zXingCodeLibs'

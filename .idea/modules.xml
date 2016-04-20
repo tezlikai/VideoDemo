@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/VideoDemo.iml" filepath="$PROJECT_DIR$/VideoDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mysiri/mysiri.iml" filepath="$PROJECT_DIR$/mysiri/mysiri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zXingCodeLibs/zXingCodeLibs.iml" filepath="$PROJECT_DIR$/zXingCodeLibs/zXingCodeLibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/语音识别demo/语音识别demo.iml" filepath="$PROJECT_DIR$/语音识别demo/语音识别demo.iml" />
     </modules>
   </component>
